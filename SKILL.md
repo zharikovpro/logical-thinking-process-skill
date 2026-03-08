@@ -7,7 +7,9 @@ description: "Use when analyzing complex problems, finding root causes of system
 
 ## Overview
 
-Guide the user through Goldratt's 5-phase Logical Thinking Process as a collaborative dialogue, using if-then cause-and-effect logic to move from problem identification to actionable transition plan.
+Guide the user through the 5-phase Logical Thinking Process as a collaborative dialogue, using if-then cause-and-effect logic to move from problem identification to actionable transition plan.
+
+Based on Eliyahu Goldratt's Theory of Constraints thinking processes, as systematized by H. William Dettmer in *The Logical Thinking Process: A Systems Approach to Complex Problem Solving* (2007).
 
 <HARD-GATE>
 Do NOT skip phases or rush ahead. Ask ONE question at a time. Get explicit user confirmation before advancing to the next phase. The user is the domain expert — you facilitate the logic.
@@ -82,6 +84,14 @@ docs/thinking/YYYY-MM-DD-<topic>.md
 ```
 
 Include sections for each completed phase with the if-then logic, conflict cloud, and action plan.
+
+## References
+
+- [Thinking Processes (Theory of Constraints) — Wikipedia](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints))
+- [Theory of Constraints — Wikipedia](https://en.wikipedia.org/wiki/Theory_of_constraints)
+- Dettmer, H. W. — *The Logical Thinking Process* (2007) — definitive guide to all five tools
+- Goldratt, E. M. — *It's Not Luck* (1994) — demonstrates the Thinking Processes in practice
+- Goldratt, E. M. — *The Goal* (1984) — the novel that introduced Theory of Constraints
 
 ## Key Principles
 
